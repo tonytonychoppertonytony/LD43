@@ -18,7 +18,6 @@ public class GameControlScript : MonoBehaviour {
 
     }
 
-    //https://www.youtube.com/watch?v=LsUiJItfzxU
 
     void Update ()
     {
